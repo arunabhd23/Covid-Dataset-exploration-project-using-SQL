@@ -1,1 +1,1 @@
-# Covid-Dataset-exploration-project-using-SQL
+# Covid-Dataset-exploratory-portfolio-project-using-SQL
